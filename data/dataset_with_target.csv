@@ -1,0 +1,26 @@
+Unnamed: 0,Student ID,Age,Gender,Family support for studies .  Scale of (1-5),Study Time (Hours/Day),Class Participation,Extracurricular Activity,Motivation to study (Scale : 1 -10),Attendance Percentage ( Range of all subjects),Previous Semester GPA ,Assignments submission ,"Internal Theory Exam , Subject 1 mark","Internal Theory Exam , Subject 2 mark","Internal Theory Exam , Subject 3 mark","Internal Theory Exam , Subject 4 mark",Screen Time per day(for non study purpose),internal_avg,performance_score,Performance_Category
+,2310030006,20,Female,5,2,Moderate,No,8,70,8.3,Both,35,37,38,38,2,37.0,32.120000000000005,Low
+,2310030021,19,Male,5,4,Moderate,Yes,8,85,9.4,Both,42,46,41,38,3,41.75,37.46,Medium
+,2310030267,19,Female,1,2,Moderate,Yes,4,90,9.57,Both,45,47,47,41,5,45.0,39.828,High
+,2410080061,18,Female,5,3,Moderate,Yes,6,85,9.73,On time,44,45,47,48,4,46.0,39.292,High
+,2310030036,19,Female,5,2,Moderate,No,8,60,8.7,Both,38,41,35,37,8,37.75,30.580000000000002,Low
+,2310030375,20,Male,5,1,Active,Yes,8,75,8.2,On time,44,42,40,36,6,40.5,34.480000000000004,Medium
+,2410040027,18,Female,5,3,Moderate,Yes,5,60,8.9,Both,42,40,38,22,5,35.5,29.76,Low
+,2410080004,18,Female,5,3,Moderate,Yes,8,10,8.0,Both,35,37,43,44,7,39.75,21.1,Low
+,2410080051,19,Female,4,1,Moderate,Yes,7,70,8.6,On time,40,35,37,35,3,36.75,32.14,Low
+,2200040192,20,Female,4,2,Moderate,Yes,8,80,9.3,Both,39,35,40,30,3,36.0,34.120000000000005,Low
+,2310030303,19,Male,5,6,Moderate,Yes,8,90,8.68,On time,37,40,42,43,2,40.5,37.672,Medium
+,2310030001,20,Female,5,2,Active,Yes,5,90,9.5,On time,45,40,40,40,3,41.25,38.3,High
+,2410030105,19,Female,5,2,Moderate,Yes,7,92,9.4,Both,48,46,44,48,2,46.5,40.760000000000005,High
+,2310040060,20,Female,5,2,Active,Yes,8,80,8.9,Both,37,39,40,33,4,37.25,34.46,Medium
+,2310030157,22,Male,4,5,Active,Yes,7,85,9.89,Delayed,50,45,43,39,12,44.25,38.656,High
+,2410040035,18,Female,5,8,Moderate,No,8,80,9.3,Both,41,41,38,38,2,39.5,35.52,Medium
+,2310040059,20,Female,5,4,Active,Yes,9,85,9.59,Both,45,47,41,46,5,44.75,38.736000000000004,High
+,2310030380,19,Female,5,1,Moderate,Yes,7,80,10.0,Both,47,45,42,43,5,44.25,37.7,High
+,2310030095,19,Female,5,4,Moderate,Yes,8,85,9.2,Both,48,43,45,42,6,44.5,38.480000000000004,High
+,2310030207,20,Female,5,2,Moderate,No,4,60,9.5,Delayed,47,29,45,36,8,39.25,31.5,Low
+,2210030414,21,Male,1,2,Moderate,Yes,7,100,9.3,Delayed,36,30,0,38,8,26.0,34.120000000000005,Low
+,2310030331,19,Female,5,1,Moderate,No,9,89,9.68,On time,42,45,43,40,4,42.5,38.672,High
+,2310030214,20,Female,5,4,Moderate,Yes,5,80,9.5,On time,45,44,40,30,1,39.75,35.7,Medium
+,2310030415,19,Female,5,2,Moderate,Yes,7,75,9.1,Both,45,47,42,40,2,43.5,36.040000000000006,Medium
+,2310030170,20,Female,5,3,Moderate,Yes,8,85,8.5,On time,38,45,46,35,4,41.0,36.800000000000004,Medium
